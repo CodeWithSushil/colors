@@ -1,1 +1,1 @@
-console.log("Colors");
+console.log("Colors: website design making to awesome.");
