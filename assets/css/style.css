@@ -46,3 +46,42 @@ body{
 h2{
   text-align: center;
 }
+.text-red-100{
+  color: rgb(255, 0, 0))
+}
+
+.text-red-10 {
+  color: rgb(25.5, 0, 0);
+}
+
+.text-red-20 {
+  color: rgb(51, 0, 0);
+}
+
+.text-red-30 {
+  color: rgb(76.5, 0, 0);
+}
+
+.text-red-40 {
+  color: rgb(102, 0, 0);
+}
+
+.text-red-50 {
+  color: rgb(127.5, 0, 0);
+}
+
+.text-red-60 {
+  color: rgb(153, 0, 0);
+}
+
+.text-red-70 {
+  color: rgb(178.5, 0, 0);
+}
+
+.text-red-80 {
+  color: rgb(204, 0, 0);
+}
+
+.text-red-90 {
+  color: rgb(229.5, 0, 0);
+}
