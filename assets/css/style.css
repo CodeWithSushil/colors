@@ -43,3 +43,6 @@ body{
 .bg-transparent{
   background: transparent;
 }
+h2{
+  text-align: center;
+}
