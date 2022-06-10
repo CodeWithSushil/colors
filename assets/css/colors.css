@@ -1,0 +1,253 @@
+@charset "UTF-8";
+
+:root {
+  --bg-transparent: transparent;
+  --bg-default: #ffffff;
+  --text-defult: #000000;
+}
+
+input[type=checkbox] {
+  accent-color: red;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.bg-dark {
+  background-color: #333;
+}
+
+.txt-black {
+  color: #000;
+}
+
+.txt-white {
+  color: #fff;
+}
+
+.bg-light {
+  background-color: #eee;
+}
+
+.bg-black {
+  background-color: rgb(0, 0, 0);
+}
+
+.bg-transparent {
+  background: transparent;
+}
+
+.txt-transparent {
+  color: transparent;
+}
+
+.bg-red-10 {
+  background-color: rgb(25.5, 0, 0);
+}
+
+.bg-red-20 {
+  background-color: rgb(51, 0, 0);
+}
+
+.bg-red-30 {
+  background-color: rgb(76.5, 0, 0);
+}
+
+.bg-red-40 {
+  background-color: rgb(102, 0, 0);
+}
+
+.bg-red-50 {
+  background-color: rgb(127.5, 0, 0);
+}
+
+.bg-red-60 {
+  background-color: rgb(153, 0, 0);
+}
+
+.bg-red-70 {
+  background-color: rgb(178.5, 0, 0);
+}
+
+.bg-red-80 {
+  background-color: rgb(204, 0, 0);
+}
+
+.bg-red-90 {
+  background-color: rgb(229.5, 0, 0);
+}
+
+.bg-red-100 {
+  background-color: rgb(255, 0, 0);
+}
+
+.bg-green-10 {
+  background-color: rgb(0, 25.5, 0);
+}
+
+.bg-green-20 {
+  background-color: rgb(0, 51, 0);
+}
+
+.bg-green-30 {
+  background-color: rgb(0, 76.5, 0);
+}
+
+.bg-green-40 {
+  background-color: rgb(0, 102, 0);
+}
+
+.bg-green-50 {
+  background-color: rgb(0, 127.5, 0);
+}
+
+.bg-green-60 {
+  background-color: rgb(0, 153, 0);
+}
+
+.bg-green-70 {
+  background-color: rgb(0, 178.5, 0);
+}
+
+.bg-green-80 {
+  background-color: rgb(0, 204, 0);
+}
+
+.bg-green-90 {
+  background-color: rgb(0, 229.5, 0);
+}
+
+.bg-green-100 {
+  background-color: rgb(0, 255, 0);
+}
+
+.txt-green-1 {
+  color: rgba(0, 255, 0, 0.1);
+}
+
+.txt-green-2 {
+  color: rgba(0, 255, 0, 0.2);
+}
+
+.txt-green-3 {
+  color: rgba(0, 255, 0, 0.3);
+}
+
+.txt-green-4 {
+  color: rgba(0, 255, 0, 0.4);
+}
+
+.txt-green-5 {
+  color: rgba(0, 255, 0, 0.5);
+}
+
+.txt-green-6 {
+  color: rgba(0, 255, 0, 0.6);
+}
+
+.txt-green-7 {
+  color: rgba(0, 255, 0, 0.7);
+}
+
+.txt-green-8 {
+  color: rgba(0, 255, 0, 0.8);
+}
+
+.txt-green-9 {
+  color: rgba(0, 255, 0, 0.9);
+}
+
+.txt-green-10 {
+  color: rgba(0, 255, 0, 1);
+}
+
+.bg-blue-10 {
+  background-color: rgb(0, 0, 25.5);
+}
+
+.bg-blue-20 {
+  background-color: rgb(0, 0, 51);
+}
+
+.bg-blue-30 {
+  background-color: rgb(0, 0, 76.5);
+}
+
+.bg-blue-40 {
+  background-color: rgb(0, 0, 102);
+}
+
+.bg-blue-50 {
+  background-color: rgb(0, 0, 127.5);
+}
+
+.bg-blue-60 {
+  background-color: rgb(0, 0, 153);
+}
+
+.bg-blue-70 {
+  background-color: rgb(0, 0, 178.5);
+}
+
+.bg-blue-80 {
+  background-color: rgb(0, 0, 204);
+}
+
+.bg-blue-90 {
+  background-color: rgb(0, 0, 229.5);
+}
+
+.bg-blue-100 {
+  background-color: rgb(0, 0, 255);
+}
+
+.txt-blue-1 {
+  color: rgba(0, 0, 255, 0.1);
+}
+
+.txt-blue-2 {
+  color: rgba(0, 0, 255, 0.2);
+}
+
+.txt-blue-3 {
+  color: rgba(0, 0, 255, 0.3);
+}
+
+.txt-blue-4 {
+  color: rgb(0, 0, 255, 0.4);
+}
+
+.txt-blue-5 {
+  color: rgb(0, 0, 255, 0.5);
+}
+
+.txt-blue-6 {
+  color: rgb(0, 0, 255, 0.6);
+}
+
+.txt-blue-7 {
+  color: rgb(0, 0, 255, 0.7);
+}
+
+.txt-blue-8 {
+  color: rgb(0, 0, 255, 0.8);
+}
+
+.txt-blue-9 {
+  color: rgb(0, 0, 255, 0.9);
+}
+
+.txt-blue-10 {
+  color: rgb(0, 0, 255, 1);
+}
+
+.cya {
+  background: rgb(red, green, blue)
+}
